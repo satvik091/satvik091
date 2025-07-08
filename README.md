@@ -1,7 +1,35 @@
 <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" />
 
-# 💫 About Me:
-👋 Hey folks! I'm Satvik Gupta, a final-year Computer Science student and tech enthusiast always exploring the AI universe.<br><br>🧠 I'm currently learning about:<br><br>Responsible AI practices with tools like Guardrails.ai and AgentOps.ai<br><br>Fine-tuning and deploying LLMs for real-world applications<br><br>Building smarter UI with Streamlit and LangChain integrations<br><br>💬 Ask me about:<br><br>How to build an ATS using AI and Streamlit.<br>Anything around Python, NLP, or getting started with LLM projects<br><br>🎉 Fun Fact:<br>Even though I'm from Agra (yes, the Taj Mahal city 🕌), I spend more time debugging code than sightseeing! 😄<br><br>Let’s connect and build something awesome together.<br>📩 satvik.gupta_cs.aiml22@gla.ac.in | GitHub=satvik091
+<div align="center">
+  <h1>👋 Hey, I'm Satvik Gupta</h1>
+  <p>
+    <b>Innovative AIML Enthusiast | Meme Creator | Community Builder</b><br>
+    <i>Crafting experiences at the intersection of code, models, creativity, and community.</i>
+  </p>
+</div>
+
+## 🌟 About Me
+
+I'm Satvik (you can call me Shiv) — a passionate developer, AIML Enthusiast, and founder, blending code and creativity to launch impactful products and communities.  
+Currently, I'm an AIML student, leading Opportunities-Milega-Bhaii! (250+ members), and building Gen-ai web apps, and AI tools.
+
+- 💡 **Focus:**  ML development • Full-Stack Engineering • Community Building
+- 🏆 **Achievements:** Campus Ambassador & Contributer (GSSOC'25) || Contributer(SSOC'25)
+- 🌱 **Interests:** Fullstack Web Development, Generative AI, Scalable Platforms
+- 👥 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/satvik-gupta-091a37229/)
+
+---
+
+## 🚀 What I Do
+
+```plaintext
+🤖 Training models for insight, crunching data for fun, and building systems that learn
+🧠 Working on prompt engineering and LLMs — making language models think better
+📊 Datasets, algorithms, vector spaces — all tuned to perfection
+💻 From NumPy to PyTorch, notebooks to deployment — the full stack's my playground
+🎧 Lo-fi beats on loop, GPU fans whirring, sleep... negotiable
+```
+
 
 
 ## 🌐 Socials:
