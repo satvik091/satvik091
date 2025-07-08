@@ -58,6 +58,9 @@ Currently, I'm an AIML student, leading Whatsapp channel [Opportunities-Milega-B
 
 Scan this QR to support me:
 
-[![UPI QR](https://github.com/satvik091/satvik091/blob/main/WhatsApp%20Image%202025-07-08%20at%2013.00.18_36894558.jpg)]()
+<a href="">
+  <img src="https://github.com/satvik091/satvik091/blob/main/WhatsApp%20Image%202025-07-08%20at%2013.00.18_36894558.jpg?raw=true" alt="UPI QR" width="250"/>
+</a>
+
 
   
