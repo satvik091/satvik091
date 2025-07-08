@@ -11,7 +11,7 @@
 ## 🌟 About Me
 
 I'm Satvik (you can call me Shiv) — a passionate developer, AIML Enthusiast, and founder, blending code and creativity to launch impactful products and communities.  
-Currently, I'm an AIML student, leading Opportunities-Milega-Bhaii! (250+ members), and building Gen-ai web apps, and AI tools.
+Currently, I'm an AIML student, leading Whatsapp channel [Opportunities-Milega-Bhaii!](https://whatsapp.com/channel/0029Vax649R90x2pzety2n3T) (250+ members), and building Gen-ai web apps, and AI tools.
 
 - 💡 **Focus:**  ML development • Full-Stack Engineering • Community Building
 - 🏆 **Achievements:** Campus Ambassador & Contributer (GSSOC'25) || Contributer(SSOC'25)
@@ -54,8 +54,10 @@ Currently, I'm an AIML student, leading Opportunities-Milega-Bhaii! (250+ member
 ---
 [![](https://visitcount.itsvg.in/api?id=Satvik091&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/6399124322) 
+## 💰 You can help me by Donating
+
+Scan this QR to support me:
+
+[![UPI QR](https://github.com/satvik091/satvik091/blob/main/WhatsApp%20Image%202025-07-08%20at%2013.00.18_36894558.jpg)]()
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
