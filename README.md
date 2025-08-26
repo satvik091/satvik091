@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik091&label=Profile%20views&color=0e75b6&style=flat" alt="satvik091" /> </p>
 <div align="center">
   <h1>👋 Hey, I'm Satvik Gupta</h1>
   <p>
@@ -14,6 +14,7 @@ I'm Satvik (you can call me Shiv) — a passionate developer, AIML Enthusiast, a
 Currently, I'm an AIML student, leading Whatsapp channel [Opportunities-Milega-Bhaii!](https://whatsapp.com/channel/0029Vax649R90x2pzety2n3T) (250+ members), and building Gen-ai web apps, and AI tools.
 
 - 💡 **Focus:**  ML development • Full-Stack Engineering • Community Building
+- 👯 **Need:**  I’m looking to collaborate on **Machine Learning Projects**
 - 🏆 **Achievements:** Campus Ambassador & Contributer (GSSOC'25) || Contributer(SSOC'25)
 - 🌱 **Interests:** Fullstack Web Development, Generative AI, Scalable Platforms
 - 👥 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/satvik-gupta-091a37229/)
