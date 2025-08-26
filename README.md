@@ -55,13 +55,7 @@ Currently, I'm an AIML student, leading Whatsapp channel [Opportunities-Milega-B
 ---
 [![](https://visitcount.itsvg.in/api?id=Satvik091&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
 
-Scan this QR to support me:
-
-<a href="">
-  <img src="https://github.com/satvik091/satvik091/blob/main/WhatsApp%20Image%202025-07-08%20at%2013.00.18_36894558.jpg?raw=true" alt="UPI QR" width="250"/>
-</a>
 
 
   
